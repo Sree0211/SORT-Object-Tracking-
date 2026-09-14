@@ -1,2 +1,2 @@
-# SORT-Object-Tracking-
+# SORT-Object-Tracking
 SORT object tracking from paper to implementation
